@@ -1,0 +1,443 @@
+.card.whizzie-wrap.loaded {
+    height: auto !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.whizzie-menu .button-primary{
+  width: 201px;
+  height: 50px;
+  background-color:#24bdaf !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 18px;
+  color: #fff;
+  font-weight: 700;
+  font-family:'Montserrat', sans-serif;
+  text-transform: capitalize;
+  border-radius: 8px;
+  position: relative;
+  letter-spacing: 0;
+  border: none !important;
+}
+.whizzie-menu .button-primary:hover{
+  background-color: #24bdaf;
+}
+.whizzie-menu .button-primary:before{
+  content: "";
+  position: absolute;
+  width: 98%;
+  height: 100%;
+  top: 62%;
+  right: 0px;
+  transform: translateY(-50%);
+  background-color: #fff;
+  z-index: -1;
+  border: 2px solid #24bdaf !important;
+  border-radius: 10px;
+  transition: all .3s;
+}
+.whizzie-wrap {
+    top: 3rem;
+}
+.aster-setup-menu {
+    text-align: left;
+}
+ul.whizzie-do-plugins li {
+    text-align: left;
+}
+.aster-setup-widget {
+    text-align: left;
+}
+.card.whizzie-wrap.loaded {
+    padding: 2em 3em 0em 3em!important;
+}
+.whizzie-wrap.loaded {
+    margin: auto;
+    text-align: center;
+}
+div#theme_activation {
+    display: none !important;
+}
+div#demo_offer {
+    display: block !important;
+}
+
+.whizzie-wrap.loaded {
+	opacity: 1;
+	max-width: 700px !important;
+}
+.whizzie-wrap.spinning .step-loading {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: rgba(255,255,255,0.8);
+}
+.spinning .step-loading .spinner {
+	float: none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	visibility: visible;
+	-webkit-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+}
+.spinning a.do-it {
+	visibility: hidden;
+}
+.whizzie-menu li.step {
+	visibility: hidden;
+}
+.whizzie-menu li.active-step {
+	visibility: visible;
+}
+.loaded .whizzie-menu li.step {
+	visibility: visible;
+	display: none;
+}
+.loaded .whizzie-menu li.active-step {
+	display: list-item;
+}
+.spinning .spinner {
+	visibility: visible;
+	float: none;
+	text-align: center;
+}
+.button-wrap {
+	display: inline-block;
+	margin: 1em 0;
+}
+.detail {
+	display: none;
+	opacity: 0;
+	transition: all 1s;
+}
+.show-detail .detail {
+	display: block;
+	opacity: 1;
+	transform: scaleY(1);
+	transform-origin: top;
+	transition: all 0.5s;
+}
+.detail.scale-down {
+	transform: scaleY(0);
+}
+.whizzie-menu .detail ul {
+	margin: 1em 0;
+}
+a.more-info {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #ccc;
+	display: none;
+}
+a.more-info:after {
+	font-family: Dashicons;
+	content: "\f347";
+	padding-left: 0.25em;
+	vertical-align: middle;
+}
+ul.whizzie-do-plugins li {
+	padding: 0.5em 1em;
+}
+ul.whizzie-do-plugins li:nth-child(odd) {
+	background: #f9f9f9;
+}
+ul.whizzie-do-plugins li span {
+	float: right;
+}
+ul.whizzie-nav {
+	list-style: none;
+	display: -webkit-flex;
+	display: webkit-flex;
+	justify-content: space-around;
+}
+ul.whizzie-nav li {
+	opacity: 1;
+	transition: all 0.25s;
+}
+ul.whizzie-nav li.active-step {
+	color: #f02930;
+}
+
+ul.whizzie-nav li.done-step {
+	opacity: 0.5;
+}
+ul.whizzie-nav .dashicons {
+	font-size: 2em;
+}
+
+.whizzie-wrap.loaded .summary p{
+	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+}
+.whizzie-menu h2{
+	font-size: 27px;
+}
+
+.step-done h2:before{
+	content: "\f529";
+	font-family: dashicons;
+	font-weight: 400;
+	display: inline-block;
+	position: relative;
+    top: 4px;
+    padding-right: 10px;
+}
+
+/* ------- Setup Guid --------- */
+
+#at-demo-setup-guid .at-setup-contact{
+	display: none;
+}
+
+#at-demo-setup-guid .at-setup-widget{
+	display: none;
+}
+
+#at-demo-setup-guid .at-setup-dots{
+	text-align: center;
+	padding-top: 25px;
+}
+
+#at-demo-setup-guid .at-setup-finish{
+	text-align: center;
+	padding-top: 20px;
+	margin: 0 5px;
+}
+
+#at-demo-setup-guid ol li{
+	list-style: decimal;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+#at-demo-setup-guid h4{
+	font-size: 17px;
+}
+
+#at-demo-setup-guid h3{
+	font-weight: 900;
+	font-size: 19px;
+}
+
+#at-demo-setup-guid h3:before{
+	content: "\f155";
+	font-family: dashicons;
+	font-weight: 400;
+	display: inline-block;
+	position: relative;
+    top: 2px;
+    padding-right: 6px;
+}
+
+#at-demo-setup-guid p{
+	font-size: 15px;
+}
+
+.whizzie-menu .step-plugins{
+	height: 100% !important;
+}
+
+#at-demo-setup-guid .at-setup-social-icon{
+	display: none;
+}
+
+tab {
+    border: 0px solid #ddd !important;
+    width: 25% !important;
+    margin: auto;
+    height: auto;
+    position: static  !important;
+}
+
+.wp-core-ui .button-primary:focus {
+  box-shadow: none !important;
+}
+
+.card.whizzie-wrap.loaded {
+    height: auto !important;
+}
+.whizzie-menu .button-primary{
+  background-color:#24bdaf !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 700;
+  font-family:'Montserrat', sans-serif;
+  text-transform: capitalize;
+  border-radius: 8px;
+  position: relative;
+  letter-spacing: 0;
+  border: none !important;
+  padding: 3px 10px;
+}
+.whizzie-wrap {
+    top: 3rem;
+}
+.aster-setup-menu {
+    text-align: left;
+}
+.aster-setup-widget {
+    text-align: left;
+}
+.card.whizzie-wrap.loaded {
+    padding: 1em 2em 1em 2em !important;
+	border-radius: 20px;
+}
+.whizzie-wrap.loaded {
+    margin: auto;
+    text-align: center;
+}
+div#theme_activation {
+    display: none !important;
+}
+div#demo_offer {
+    display: block !important;
+}
+.whizzie-wrap.loaded {
+	opacity: 1;
+	max-width: 700px !important;
+}
+.whizzie-wrap.spinning .step-loading {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	border-radius: 20px;
+	background: rgba(255,255,255,0.8);
+}
+.spinning .step-loading .spinner {
+	float: none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	visibility: visible;
+	-webkit-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+}
+.spinning a.do-it {
+	visibility: hidden;
+}
+.whizzie-menu li.step {
+	visibility: hidden;
+}
+.whizzie-menu li.active-step {
+	visibility: visible;
+}
+.loaded .whizzie-menu li.step {
+	visibility: visible;
+	display: none;
+}
+.loaded .whizzie-menu li.active-step {
+	display: list-item;
+}
+.spinning .spinner {
+	visibility: visible;
+	float: none;
+	text-align: center;
+}
+.button-wrap {
+	display: inline-block;
+	margin: 1em 0;
+}
+.detail {
+	display: none;
+	opacity: 0;
+	transition: all 1s;
+}
+.show-detail .detail {
+	display: block;
+	opacity: 1;
+	transform: scaleY(1);
+	transform-origin: top;
+	transition: all 0.5s;
+}
+.detail.scale-down {
+	transform: scaleY(0);
+}
+.whizzie-menu .detail ul {
+	margin: 1em 0;
+}
+.whizzie-wrap.loaded .summary p{
+	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+}
+.whizzie-menu h2{
+	font-size: 27px;
+}
+.step-done h2:before{
+	content: "\f529";
+	font-family: dashicons;
+	font-weight: 400;
+	display: inline-block;
+	position: relative;
+    top: 4px;
+    padding-right: 10px;
+}
+
+
+/* ------- Setup Guid --------- */
+
+#at-demo-setup-guid .at-setup-contact{
+	display: none;
+}
+#at-demo-setup-guid .at-setup-widget{
+	display: none;
+}
+#at-demo-setup-guid .at-setup-dots{
+	text-align: center;
+	padding-top: 25px;
+}
+#at-demo-setup-guid .at-setup-finish{
+	text-align: center;
+	padding-top: 20px;
+	margin: 0 5px;
+}
+#at-demo-setup-guid ol li{
+	list-style: decimal;
+	font-size: 15px;
+	font-weight: 600;
+}
+#at-demo-setup-guid h4{
+	font-size: 17px;
+}
+#at-demo-setup-guid h3{
+	font-weight: 900;
+	font-size: 19px;
+}
+#at-demo-setup-guid p{
+	font-size: 15px;
+}
+.aster-setup-finish a:focus{
+	border-color:none !important;
+	box-shadow: none !important;
+}
+.whizzie-menu .button-primary:hover{
+	background: #f36f23 !important ;
+}
+.card.whizzie-wrap.loaded {
+    border: 1px solid #24bdaf !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06) !important;
+    background-color: #fff !important;
+    border-radius: 15px !important;
+    transition: box-shadow 0.3s ease !important;
+}
+.card.whizzie-wrap.loaded:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15), 0 4px 8px rgba(0, 0, 0, 0.1) !important; 
+}
+.card.whizzie-wrap.loaded:hover {
+    border: 1px solid #f36f23 !important;
+}

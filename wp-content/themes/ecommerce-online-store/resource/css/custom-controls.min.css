@@ -1,0 +1,43 @@
+.toggle-switch-control .customize-control-title{display:inline-block}.toggle-switch{position:relative;width:64px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;float:right}.toggle-switch .toggle-switch-checkbox{display:none}.toggle-switch .toggle-switch-label{display:block;overflow:hidden;cursor:pointer;border:2px solid #ddd;border-radius:0;padding:0;margin:0}.toggle-switch-inner{display:block;width:200%;margin-left:-100%;transition:margin .2s ease-in}.toggle-switch-inner:after,.toggle-switch-inner:before{display:block;float:left;width:50%;height:22px;padding:0;line-height:22px;font-size:14px;font-family:Trebuchet,Arial,sans-serif;font-weight:700;box-sizing:border-box}.toggle-switch-inner:before{content:"ON";padding-left:8px;background-color:#000;color:#fff}.toggle-switch-inner:after{content:"OFF";padding-right:8px;background-color:#eee;color:#999;text-align:right}.toggle-switch-switch{display:block;width:16px;margin:3px;background-color:#fff;position:absolute;top:0;bottom:0;right:38px;border:2px solid #ddd;border-radius:0;transition:.2s ease-in}.toggle-switch-checkbox:checked+.toggle-switch-label .toggle-switch-inner{margin-left:0}.toggle-switch-checkbox:checked+.toggle-switch-label .toggle-switch-switch{right:0}
+
+h3.accordion-section-title {
+    margin: 0 !important;
+}
+li#accordion-section-upsell_section h3, li#accordion-section-doc_section h3 {
+    padding: 10px 5px !important;
+    color: #000 !important;
+    background-color: #5c8dff !important;
+}
+    /* Serparator CSS */
+
+    .separator-control {
+        border: none !important;
+        background: #fff;
+        padding:10px;
+        border-left: solid 5px #2271b1 !important;
+        margin: 0;
+    }
+    .separator-control span {
+        color: #2271b1;
+        margin: 0;
+    }
+    .separator-control hr{
+        display: none;
+    }
+
+    img.ecommerce-online-store-selector-img.ecommerce-online-store-selected-img {
+        border: 2px solid #2271b1;
+        cursor: pointer;
+        width: 90px;
+        height: auto;
+        transition: border-color 0.4s ease-in-out;
+    }
+    li#accordion-section-upsell_section.cannot-expand .accordion-section-title:after,li#accordion-section-doc_section.cannot-expand .accordion-section-title:after{
+        display: none;
+    }
+    .accordion-section-title button.accordion-trigger{
+        width: 92%;
+    }
+    #customize-controls .control-section .accordion-section-title button:focus{
+        box-shadow: none;
+    }

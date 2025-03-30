@@ -1,0 +1,582 @@
+[
+    {
+        "family": "Titillium Web",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Epilogue",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v2.1",
+        "lastModified": "2020-12-28",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Lato",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v17",
+        "lastModified": "2020-09-15",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Lexend",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "version": "v5",
+        "lastModified": "2021-04-20",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Montserrat",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "cyrillic",
+            "cyrillic-ext",
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "version": "v15",
+        "lastModified": "2020-09-15",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Oswald",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "cyrillic",
+            "cyrillic-ext",
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "version": "v36",
+        "lastModified": "2021-01-30",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Playfair Display",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "cyrillic",
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "version": "v22",
+        "lastModified": "2021-01-30",
+        "files": {
+            "regular": ""
+        },
+        "category": "serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Play",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "devanagari",
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v15",
+        "lastModified": "2020-11-06",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Quicksand",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "version": "v22",
+        "lastModified": "2021-01-30",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Raleway",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "cyrillic",
+            "cyrillic-ext",
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "version": "v19",
+        "lastModified": "2021-01-30",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Roboto",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "cyrillic",
+            "cyrillic-ext",
+            "greek",
+            "greek-ext",
+            "latin",
+            "latin-ext",
+            "vietnamese"
+        ],
+        "version": "v27",
+        "lastModified": "2021-04-05",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Bad Script",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Playwrite ES",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Bebas Neue",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Rubik",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Fira Sans",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Ubuntu",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Merriweather",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Source Sans Pro",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Nunito",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Open Sans",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Muli",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Cabin",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Josefin Sans",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Arimo",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Karla",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Domine",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Vollkorn",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Mulish",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Kodchasan",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Libre Baskerville",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Readex Pro",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    },
+    {
+        "family": "Jost",
+        "variants": [
+            "regular"
+        ],
+        "subsets": [
+            "latin",
+            "latin-ext"
+        ],
+        "version": "v9",
+        "lastModified": "2020-09-10",
+        "files": {
+            "regular": ""
+        },
+        "category": "sans-serif",
+        "kind": "webfonts#webfont"
+    }
+]
